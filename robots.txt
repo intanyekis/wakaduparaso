@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://wakaduparaso.pages.dev/sitemap.xml
